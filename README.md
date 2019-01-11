@@ -5,6 +5,11 @@ Input Transformation in Defense Against Adversarial Attacks
 
 We're designing a special transform based on a secret key stream to the input to defense both white-box and black-box adversarial attacks.
 
+#### Environment
+tensorflow-1.12 
+Keras
+cleverhans
+
 #### How to use
 
 To see the effect of the idea on white-box attacks,
